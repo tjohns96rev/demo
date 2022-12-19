@@ -1,0 +1,4 @@
+#Mon Dec 19 10:31:28 EST 2022
+configuration*?=8D2FBC75BB016CD6B50DFBDD6437A407B3763A63
+module-resource*?\:checkstyle/suppressions.xml=109F5140B0037B7AD48942453040734037263066
+D\:\\repos\\demo\\src\\test\\java\\com\\example\\AppTest.java=1671462895249
